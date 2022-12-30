@@ -1,0 +1,73 @@
+﻿生成启动时间为 2022/5/24 17:26:23。
+日志记录详细程度设置为: Normal。     1>项目“G:\Homework\大二下\Data Base Management System\期末大作业\EducationalAdministrationSystem\EducationalAdministrationSystem\EducationalAdministrationSystem.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“x64\Release\Educatio.A863B8F3.tlog\unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         E:\C\VC\Tools\MSVC\14.29.30133\bin\HostX86\x64\CL.exe /c /Zi /nologo /W3 /WX- /diagnostics:column /sdl /O2 /Oi /GL /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"pch.h" /Fp"x64\Release\EducationalAdministrationSystem.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc142.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt CAchievement.cpp CAchievementAdd.cpp CCourse.cpp CCourseAdd.cpp CMainInterface.cpp CRanking.cpp CStudent.cpp CStudentAdd.cpp CTeacher.cpp CTeacherAdd.cpp CTeacherQuery.cpp DataBase.cpp EducationalAdministrationSystem.cpp EducationalAdministrationSystemDlg.cpp
+         CAchievement.cpp
+     1>G:\Homework\大二下\Data Base Management System\期末大作业\EducationalAdministrationSystem\EducationalAdministrationSystem\CAchievement.cpp(55,28): warning C4244: “=”: 从“uint64_t”转换到“int”，可能丢失数据
+         CAchievementAdd.cpp
+         CCourse.cpp
+     1>G:\Homework\大二下\Data Base Management System\期末大作业\EducationalAdministrationSystem\EducationalAdministrationSystem\CCourse.cpp(54,28): warning C4244: “=”: 从“uint64_t”转换到“int”，可能丢失数据
+         CCourseAdd.cpp
+         CMainInterface.cpp
+         CRanking.cpp
+         CStudent.cpp
+     1>G:\Homework\大二下\Data Base Management System\期末大作业\EducationalAdministrationSystem\EducationalAdministrationSystem\CStudent.cpp(54,28): warning C4244: “=”: 从“uint64_t”转换到“int”，可能丢失数据
+         CStudentAdd.cpp
+         CTeacher.cpp
+     1>G:\Homework\大二下\Data Base Management System\期末大作业\EducationalAdministrationSystem\EducationalAdministrationSystem\CTeacher.cpp(55,28): warning C4244: “=”: 从“uint64_t”转换到“int”，可能丢失数据
+         CTeacherAdd.cpp
+         CTeacherQuery.cpp
+         DataBase.cpp
+     1>G:\Homework\大二下\Data Base Management System\期末大作业\EducationalAdministrationSystem\EducationalAdministrationSystem\DataBase.cpp(68,31): warning C4244: “return”: 从“uint64_t”转换到“int”，可能丢失数据
+     1>G:\Homework\大二下\Data Base Management System\期末大作业\EducationalAdministrationSystem\EducationalAdministrationSystem\DataBase.cpp(91,12): warning C4477: “printf”: 格式字符串“%lld”需要类型“__int64”的参数，但可变参数 1 拥有了类型“int”
+       G:\Homework\大二下\Data Base Management System\期末大作业\EducationalAdministrationSystem\EducationalAdministrationSystem\DataBase.cpp(91,12): message : 请考虑在格式字符串中使用“%d”
+       G:\Homework\大二下\Data Base Management System\期末大作业\EducationalAdministrationSystem\EducationalAdministrationSystem\DataBase.cpp(91,12): message : 请考虑在格式字符串中使用“%I32d”
+         EducationalAdministrationSystem.cpp
+         EducationalAdministrationSystemDlg.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /Ix64\Release\ /nologo /fo"x64\Release\EducationalAdministrationSystem.res" EducationalAdministrationSystem.rc 
+       Link:
+         E:\C\VC\Tools\MSVC\14.29.30133\bin\HostX86\x64\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Homework\大二下\Data Base Management System\期末大作业\EducationalAdministrationSystem\x64\Release\EducationalAdministrationSystem.exe" /INCREMENTAL:NO /NOLOGO libmysql.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:E:\C\VC\Tools\MSVC\14.29.30133\Include\Manifest\dpiaware.manifest /DEBUG:FULL /PDB:"G:\Homework\大二下\Data Base Management System\期末大作业\EducationalAdministrationSystem\x64\Release\EducationalAdministrationSystem.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG:incremental /LTCGOUT:"x64\Release\EducationalAdministrationSystem.iobj" /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Homework\大二下\Data Base Management System\期末大作业\EducationalAdministrationSystem\x64\Release\EducationalAdministrationSystem.lib" /MACHINE:X64 x64\Release\EducationalAdministrationSystem.res
+         x64\Release\CAchievement.obj
+         x64\Release\CAchievementAdd.obj
+         x64\Release\CCourse.obj
+         x64\Release\CCourseAdd.obj
+         x64\Release\CMainInterface.obj
+         x64\Release\CRanking.obj
+         x64\Release\CStudent.obj
+         x64\Release\CStudentAdd.obj
+         x64\Release\CTeacher.obj
+         x64\Release\CTeacherAdd.obj
+         x64\Release\CTeacherQuery.obj
+         x64\Release\DataBase.obj
+         x64\Release\EducationalAdministrationSystem.obj
+         x64\Release\EducationalAdministrationSystemDlg.obj
+         x64\Release\pch.obj
+         正在生成代码
+         Previous IPDB not found, fall back to full compilation.
+         All 363 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         已完成代码的生成
+         EducationalAdministrationSystem.vcxproj -> G:\Homework\大二下\Data Base Management System\期末大作业\EducationalAdministrationSystem\x64\Release\EducationalAdministrationSystem.exe
+       FinalizeBuildStatus:
+         正在删除文件“x64\Release\Educatio.A863B8F3.tlog\unsuccessfulbuild”。
+         正在对“x64\Release\Educatio.A863B8F3.tlog\EducationalAdministrationSystem.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“G:\Homework\大二下\Data Base Management System\期末大作业\EducationalAdministrationSystem\EducationalAdministrationSystem\EducationalAdministrationSystem.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+       “G:\Homework\大二下\Data Base Management System\期末大作业\EducationalAdministrationSystem\EducationalAdministrationSystem\EducationalAdministrationSystem.vcxproj”(Build 目标) (1) ->
+       (ClCompile 目标) -> 
+         G:\Homework\大二下\Data Base Management System\期末大作业\EducationalAdministrationSystem\EducationalAdministrationSystem\CAchievement.cpp(55,28): warning C4244: “=”: 从“uint64_t”转换到“int”，可能丢失数据
+         G:\Homework\大二下\Data Base Management System\期末大作业\EducationalAdministrationSystem\EducationalAdministrationSystem\CCourse.cpp(54,28): warning C4244: “=”: 从“uint64_t”转换到“int”，可能丢失数据
+         G:\Homework\大二下\Data Base Management System\期末大作业\EducationalAdministrationSystem\EducationalAdministrationSystem\CStudent.cpp(54,28): warning C4244: “=”: 从“uint64_t”转换到“int”，可能丢失数据
+         G:\Homework\大二下\Data Base Management System\期末大作业\EducationalAdministrationSystem\EducationalAdministrationSystem\CTeacher.cpp(55,28): warning C4244: “=”: 从“uint64_t”转换到“int”，可能丢失数据
+         G:\Homework\大二下\Data Base Management System\期末大作业\EducationalAdministrationSystem\EducationalAdministrationSystem\DataBase.cpp(68,31): warning C4244: “return”: 从“uint64_t”转换到“int”，可能丢失数据
+         G:\Homework\大二下\Data Base Management System\期末大作业\EducationalAdministrationSystem\EducationalAdministrationSystem\DataBase.cpp(91,12): warning C4477: “printf”: 格式字符串“%lld”需要类型“__int64”的参数，但可变参数 1 拥有了类型“int”
+
+    6 个警告
+    0 个错误
+
+已用时间 00:00:07.47

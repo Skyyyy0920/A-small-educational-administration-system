@@ -1,0 +1,38 @@
+﻿生成启动时间为 2022/5/20 23:46:03。
+日志记录详细程度设置为: Normal。     1>项目“G:\Homework\大二下\Data Base Management System\期末大作业\EducationalAdministrationSystem\EducationalAdministrationSystem\EducationalAdministrationSystem.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Educatio.A863B8F3.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         E:\C\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"pch.h" /Fp"Debug\EducationalAdministrationSystem.pch" /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt CAchievement.cpp CCourse.cpp CMainInterface.cpp CStudent.cpp CTeacher.cpp EducationalAdministrationSystem.cpp EducationalAdministrationSystemDlg.cpp
+         CAchievement.cpp
+         CCourse.cpp
+         CMainInterface.cpp
+         CStudent.cpp
+         CTeacher.cpp
+         EducationalAdministrationSystem.cpp
+         EducationalAdministrationSystemDlg.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\EducationalAdministrationSystem.res" EducationalAdministrationSystem.rc 
+       Link:
+         E:\C\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Homework\大二下\Data Base Management System\期末大作业\EducationalAdministrationSystem\Debug\EducationalAdministrationSystem.exe" /INCREMENTAL /ILK:"Debug\EducationalAdministrationSystem.ilk" /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:E:\C\VC\Tools\MSVC\14.29.30133\Include\Manifest\dpiaware.manifest /DEBUG:FULL /PDB:"G:\Homework\大二下\Data Base Management System\期末大作业\EducationalAdministrationSystem\Debug\EducationalAdministrationSystem.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Homework\大二下\Data Base Management System\期末大作业\EducationalAdministrationSystem\Debug\EducationalAdministrationSystem.lib" /MACHINE:X86 Debug\EducationalAdministrationSystem.res
+         Debug\CAchievement.obj
+         Debug\CCourse.obj
+         Debug\CMainInterface.obj
+         Debug\CStudent.obj
+         Debug\CTeacher.obj
+         Debug\EducationalAdministrationSystem.obj
+         Debug\EducationalAdministrationSystemDlg.obj
+         Debug\pch.obj
+         EducationalAdministrationSystem.vcxproj -> G:\Homework\大二下\Data Base Management System\期末大作业\EducationalAdministrationSystem\Debug\EducationalAdministrationSystem.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Educatio.A863B8F3.tlog\unsuccessfulbuild”。
+         正在对“Debug\Educatio.A863B8F3.tlog\EducationalAdministrationSystem.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“G:\Homework\大二下\Data Base Management System\期末大作业\EducationalAdministrationSystem\EducationalAdministrationSystem\EducationalAdministrationSystem.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:03.97
